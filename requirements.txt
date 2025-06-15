@@ -2,14 +2,3 @@ streamlit
 pydub
 ffmpeg-python
 pytube
-pandas
-numpy
-matplotlib
-statsmodels
-scikit-learn
-streamlit
-opencv-python-headless
-Pillow
-rembg
-
-
