@@ -1,5 +1,7 @@
 streamlit
-pydub 
+pydub
+ffmpeg-python
+pytube
 pandas
 numpy
 matplotlib
