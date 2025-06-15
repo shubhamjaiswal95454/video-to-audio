@@ -9,5 +9,5 @@ streamlit
 opencv-python-headless
 Pillow
 rembg
-pytube
+
 
