@@ -1,4 +1,5 @@
 streamlit
+pydub 
 pandas
 numpy
 matplotlib
@@ -9,4 +10,4 @@ opencv-python-headless
 Pillow
 rembg
 pytube
-pydub 
+
